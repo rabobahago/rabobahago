@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rabo Yusuf
 - 👀 I’m interested in Frontend, Backend and Fullstack position
-- 🌱 I’m currently learning how to test React components, test Node and Express endpoints with Jest, and Advanced React Patterns
+- 🌱 I’m currently learning how to test Node and Express endpoints with Jest, and Advanced React Patterns
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: twitter: https://twitter.com/raboyusuf94 || LinkedIn: https://www.linkedin.com/in/rabo-yusuf-56a68a98/
