@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rabo Yusuf
+- Software Engineer Fellow with the bulb Africa, Nigeria
 - 👀 I’m interested in Frontend, Backend and Fullstack position
 - 🌱 I’m currently learning how to test Node and Express endpoints with Jest
 - 💞️ I’m looking to collaborate on GitHub
