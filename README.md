@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rabo Yusuf
-- 👍 Software Engineer Fellow with the bulb Africa, Nigeria
+- 👍 Software Engineer with the bulb Africa, Nigeria
 - 👀 I’m interested in Frontend, Backend and Fullstack position
-- 🌱 I’m currently learning how to test Node and Express endpoints with Jest
+- 🌱 I’m currently learning graphql
 - 💞️ I’m looking to collaborate on GitHub
 - 👨‍👩‍👧‍👦Here is the link to my portfolio: https://theraboyusuf.netlify.app/
 - 📫 How to reach me: twitter: https://twitter.com/raboyusuf94 || LinkedIn: https://www.linkedin.com/in/raboyusuf
