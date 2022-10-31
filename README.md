@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rabo Yusuf
 - 👍 Software Engineer with the bulb Africa, Nigeria
-- 👀 I’m interested in Frontend, Backend and Fullstack position
 - 🌱 I’m currently learning graphql
 - 💞️ I’m looking to collaborate on GitHub
 - 👨‍👩‍👧‍👦Here is the link to my portfolio: https://theraboyusuf.netlify.app/
