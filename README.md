@@ -21,7 +21,6 @@
 - 🤝 I am looking to meet with **Builders**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabobahago?tab=repositories](https://github.com/rabobahago?tab=repositories)
-- 
 - 🌱 Portfolio:https://theraboyusuf.netlify.app/
 
 - 💬 Ask me about **JavaScript, React, Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, React Native.**
