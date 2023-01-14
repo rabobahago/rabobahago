@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/raboyusuf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/raboyusuf94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://theraboyusuf.netlify.app/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 <br>
@@ -21,7 +20,8 @@
 
 - 🤝 I am looking to meet with **Builders**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rabobahago?tab=repositories](https://github.com/rabobahago?tab=repositories)
+- 🌱 Portfolio: theraboyusuf.netlify.app
 
 - 💬 Ask me about **JavaScript, React, Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, React Native.**
 
@@ -34,9 +34,6 @@
 <br>
 
 NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymurtazamemon&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="alymurtazamemon" align="right">
-
 <h3 align="left">Blockchains</h3>
 <p align="left">
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
