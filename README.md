@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/56123405/177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a.png">
-
 <h1 align="center">Hi 👋, My name is Rabo Yusuf</h1>
 <h3 align="center">I am a Software Engineer & working as a Full Stack Blockchain Developer.</h3>
 
@@ -25,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
 
-- 💬 Ask me about **Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
+- 💬 Ask me about **JavaScript, React, Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, React Native.**
 
 - 📫 How to reach me **raboyusuf94@gmail.com**
 
