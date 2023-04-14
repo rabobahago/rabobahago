@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Rabo Yusuf</h1>
-<h3 align="center">I am a Software Engineer & Full Stack Blockchain Developer.</h3>
+<h3 align="center">I am a Software Engineer: Full-Stack:JavaScript/TypeScript, Node || Solidity: Blockchain/Ethereum || Python: ML/Backend.</h3>
 
 <h3 align="center">Connect with me on:</h3>
 
