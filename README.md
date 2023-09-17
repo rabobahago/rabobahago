@@ -14,8 +14,6 @@
 
 - 👨‍💻 I am currently building on **Ethereum Blockchain**
 
-- 🌱 I’m currently learning **Web2 & Web3 Technologies**
-
 - 👯 I will be happy to collaborate on **Blockchain Projects**
 
 - 🤝 I am looking to meet with **Builders**
