@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Rabo Yusuf</h1>
-<h3 align="center">I am a Software Engineer: Full-Stack:JavaScript/TypeScript, Node || Solidity: Blockchain/Ethereum || Python: ML/Backend.</h3>
+<h3 align="center">Python /JavaScript Engineer:: Python:ML/Django JavaScript/Typescript: React || SQL || Solidity</h3>
 
 <h3 align="center">Connect with me on:</h3>
 
@@ -12,15 +12,15 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-- 👨‍💻 I am currently building on **Ethereum Blockchain**
+- 👨‍💻 I am currently building on **Machine Learning**
 
-- 👯 I will be happy to collaborate on **Blockchain Projects**
+- 👯 I will be happy to collaborate on **Machine Learning Projects**
 
 - 🤝 I am looking to meet with **Builders**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabobahago?tab=repositories](https://github.com/rabobahago?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React, Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, React Native.**
+- 💬 Ask me about **Python:ML/Django JavaScript/Typescript: React || SQL || Solidity**
 
 - 📫 How to reach me **raboyusuf94@gmail.com**
 
@@ -65,14 +65,11 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> </a>
 </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/> </a>
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>
