@@ -55,11 +55,6 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>
 </p>
 
-<h3 align="left">Off-Chain</h3>
-<p align="left">
-  <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
-</p>
-
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alimurtaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alimurtaza" /></a><a href="https://ko-fi.com/alimurtaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alimurtaza" /></a></p><br><br> -->
 
